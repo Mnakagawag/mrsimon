@@ -1,0 +1,29 @@
+/*
+    rojo: #ba1820;
+    font-family: Times New Roman;
+*/
+body{
+    background-image: url(img/graph-tile.png);
+    background-repeat: no-repeat;
+}
+header{
+	text-align: center;
+	font-family: Times New Roman;
+	padding: 50px;
+}
+h1{
+	color: #ba1820
+}
+.primero .segundo .tercero{
+	text-align: center;
+	font-size: 10pt;
+}
+.cerdito2 .mariposa .pescadito{
+	padding: 5px;
+}
+.parrafo1 .parrafo2 .parrafo3{
+	margin-right: 10px;
+	font-size: 7pt;
+}
+
+
